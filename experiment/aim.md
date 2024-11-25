@@ -1,1 +1,1 @@
-### Aim of the experiment
+<h2>AIM: To study Secant Method</h2>
