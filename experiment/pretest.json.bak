@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Secent method is _______________________",
+        "qid": 1,
+        "option_a": "Open method",
+        "option_b": "Bracketing method",
+        "option_c": "",
+        "option_d": "",
+        "correct_option": "a"
+    },
+    {
+        "question": "The new improved approximation is given by ______________",
+        "qid": 2,
+        "option_a": "$$ x_3 = x_1 + \\frac{f(x_1)(x_2 - x_1)}{f(x_2) + f(x_1)} $$",
+        "option_b": "$$ x_3 = x_1 - \\frac{f(x_1)(x_2 - x_1)}{f(x_2) - f(x_1)} $$",
+        "option_c": "$$ x_3 = x_1 - \\frac{f(x_1)(x_2 + x_1)}{f(x_2) + f(x_1)} $$",
+        "option_d": "$$ x_3 = \\frac{f(x_1)(x_2 - x_1)}{f(x_2) - f(x_1)} $$",
+        "correct_option": "b"
+    }
+]
