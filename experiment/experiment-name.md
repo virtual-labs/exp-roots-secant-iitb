@@ -1,1 +1,1 @@
-## Experiment name
+## Secant Method
