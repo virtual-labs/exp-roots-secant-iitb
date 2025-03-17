@@ -1,0 +1,20 @@
+[
+   {
+      "question": "$$ \\text{Initial guess} \\quad x1 = 0 \\quad and \\quad x2 = 1 $$ $$ x3 = \\frac{x1 + x2}{2} $$ $$\\text{equation } =  cos(x)-x × exp(x) $$ $$\\text{What is function value of 5th iteration using Secant method?}$$",
+      "qid": 1,
+      "option_a": "0.00006",
+      "option_b": "0.00003",
+      "option_c": "0.00011",
+      "option_d": "0.00018",
+      "correct_option": "b"
+   },
+   {
+      "question": "$$ \\text{Initial guess} \\quad x1 = 0 \\quad and \\quad x2 = 1 $$ $$ x3 = \\frac{x1 + x2}{2} $$ $$\\text{equation } =  cos(x)-x × exp(x) $$ $$\\text{What is root value of 5th iteration using Secant method?}$$",
+      "qid": 2,
+      "option_a": "0.51775",
+      "option_b": "0.53171",
+      "option_c": "0.51775",
+      "option_d": "0.51773",
+      "correct_option": "c"
+   }
+]
